@@ -2,4 +2,9 @@
 
 segunda edição v2
 
+<<<<<<< HEAD
 terceira edicao v3
+=======
+modificacao correta
+>>>>>>> desvio
+1234
